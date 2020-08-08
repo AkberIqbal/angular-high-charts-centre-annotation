@@ -1,0 +1,7 @@
+p {
+  font-family: Lato;
+}
+g.highcharts-annotation-shapes>rect { 
+  stroke:black;
+  stroke-width: 18px;
+}
